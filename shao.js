@@ -1,6 +1,3 @@
-/*=================================
-关注微信公众号iosrule和微信群
-
 #Qx烧App签到
 http:\/\/node_api\.baoear\.com\/user\/signstats url script-request-body sao_sign.js
 
