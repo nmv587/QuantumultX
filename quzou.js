@@ -9,7 +9,7 @@
 
 //=================================
 #圈叉趣走App签到
-https:\/\/(mobile01\.91quzou\.com\/rebate\/qz\/task\/homeTaskView\.do)|(mini1\.91quzou\.com\/activity\/inviteVideo\.do) url script-request-header quwalk.js
+https:\/\/(mobile01\.91quzou\.com\/rebate\/qz\/task\/homeTaskView\.do)|(mini1\.91quzou\.com\/activity\/inviteVideo\.do) url script-request-header https://raw.githubusercontent.com/nmv587/QuantumultX/master/quzou.js
 
 
 mit=mobile01.91quzou.com,mini1.91quzou.com
