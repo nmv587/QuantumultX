@@ -2,7 +2,7 @@
 关注微信公众号iosrule和微信群
 
 #Qx烧App签到
-http:\/\/node_api\.baoear\.com\/user\/signstats url script-request-body sao_sign.js
+http:\/\/node_api\.baoear\.com\/user\/signstats url script-request-body https://raw.githubusercontent.com/nmv587/QuantumultX/master/shao/shao.js
 
 #定时
 0 2,13,25,45,55 0-23 * * ? sao_sign.js, tag=定时烧App签到, enabled=false
