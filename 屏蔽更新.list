@@ -1,0 +1,3 @@
+# 屏蔽系统更新
+host, gdmf.apple.com, direct
+host, mesu.apple.com, direct
