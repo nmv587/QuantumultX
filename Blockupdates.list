@@ -1,7 +1,0 @@
-# 屏蔽系统更新
-host, mesu.apple.com, reject
-host, gdmf.apple.com, reject
-host, updates-http.cdn-apple.com, reject
-host, ns.itunes.apple.com, reject
-host, appldnld.apple.com, reject
-host, xp.apple.com, reject
